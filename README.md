@@ -19,11 +19,11 @@ This repository contains SQL-based analysis for retail sales, product performanc
 ![ER](https://github.com/Mahamudha/TechStore-Analytics-Insights/blob/9ac9801ce8b653af08a1f54dab2ca41fac19f9f6/Images/TechStore%20Analytics%20Insights_page-0012.jpg)
 
 ## 🛠️ Tools Used
-PostgreSQL: For querying and managing relational data. 
+🐘 PostgreSQL: For querying and managing relational data. 
 <br>
-Snowflake: For cloud-based data warehousing and analytics.
+❄️ Snowflake: For cloud-based data warehousing and analytics.
 <br>
-SQL: For data analysis and generating key business metrics.
+💻 SQL: For data analysis and generating key business metrics.
 
 
 
