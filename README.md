@@ -1,2 +1,18 @@
 # TechStore-Analytics-Insights
-This repository contains SQL-based data analysis for retail sales, product performance, and business insights. It uses PostgreSQL and Snowflake for querying and processing sales data to generate key metrics like sales growth, revenue analysis, and inventory management.
+This repository contains SQL-based analysis for retail sales, product performance, and business insights using PostgreSQL and Snowflake. It focuses on metrics like sales growth, revenue analysis, and inventory management.
+
+##🗂️ Database ER Diagram
+![ER](URL_or_path_to_image)
+
+##📊 Slides Overview
+![ER](URL_or_path_to_image)
+
+##🛠️ Tools Used
+PostgreSQL: For querying and managing relational data.
+Snowflake: For cloud-based data warehousing and analytics.
+SQL: For data analysis and generating key business metrics.
+
+
+
+
+
